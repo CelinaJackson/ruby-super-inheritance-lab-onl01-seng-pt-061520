@@ -7,6 +7,15 @@ end
 
 def raise_hand
   super
-  puts "Pick me!, Pick me!, Pick me!, Pick me!, Pick me!, Pick me!, Pick me!, Pick me!, Pick me!, Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
+  puts "Pick me!"
 end
 end
